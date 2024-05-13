@@ -10,8 +10,11 @@ B.S., Economic     | Fu Jen Catholic University, New Taipei, Taiwan (May 2016)
 ### EXPERIENCE
 #### AnalyticEngineer|CampsiteDataConsulting·Contract Chicago,IL April2024-Present
 ● Updating the structure or content of the Postgresql database to ensure that it aligns with the requirements of the current results dashboard.
+
 ● Modifying tables, adding or removing columns, or optimizing queries for better performance.
+
 ● Updating data connections, modifying queries or reports, and ensuring that the visualizations accurately reflect the data in the database.
+
 ● Reviewing and updating existing R queries that are responsible for passing data to Postgresql database. Modify the queries to accommodate changes in data structure or requirements and optimize them for performance.
 #### PRODUCT MANAGER | CyberSoft Digital Services Corp Taipei, Taiwan , Jan 2021 - Jan 2022
 ● Led cross-functional collaboration with engineers and data scientists for product development of a customer-rewarding app, leveraging data-driven insights with Python to analyze Google Ads data.
